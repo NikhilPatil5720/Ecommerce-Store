@@ -1,3 +1,9 @@
+# 🛒 Ecommerce-Store
+
+A full-stack **E-commerce web application** where users can browse products, view details, add items to cart, and proceed to checkout.  
+This is a personal project built to understand **frontend + backend integration** and mimic real-world e-commerce platforms.
+
+<hr>
 
 ## How to run the app?
 - Clone the repo and run the app.
@@ -31,18 +37,31 @@
 - Functionality to view Item Details
 - Functionality to add a Items in cart
 
-
-![Logo]()
+<hr>
 
 - Landing page :
 
-![Landing Page]()
+![Landing Page](https://github.com/NikhilPatil5720/Ecommerce-Store/blob/main/OryoHomepage.png?raw=true)
 
 - User page :
 
-![User page]()
+![User page](https://github.com/NikhilPatil5720/Ecommerce-Store/blob/main/OryoProfilepage.png?raw=true)
 
+- Product Detail page :
 
-- Payment page :
+![Product page](https://github.com/NikhilPatil5720/Ecommerce-Store/blob/main/OryoProductpage.png?raw=true)
 
-![Payment page]()
+-Cart page :
+
+![Cart page](https://github.com/NikhilPatil5720/Ecommerce-Store/blob/main/OryoCartPage.png?raw=true)
+
+-Order Confermation page :
+
+![Order page](https://github.com/NikhilPatil5720/Ecommerce-Store/blob/main/OryoOrderpage.png?raw=true)
+
+<hr>
+
+👨‍💻 Author
+
+Nikhil Patil
+🔗 GitHub Profile(https://github.com/NikhilPatil5720)
