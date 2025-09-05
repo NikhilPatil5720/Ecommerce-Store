@@ -110,7 +110,7 @@ function footer(){
                 </ul>
                 <div class="sc_copyright">
                     <p>Copyright © 2011-2022 Clues Network Pvt. Ltd.</p>
-                    <img src="//images.shopclues.com/images/ui/shopclues_logo@2x.png" alt="Shopclues.com">
+                    <img src="../images/logo.png" alt="Ory.com">
                 </div>
             </div>
         </div>
