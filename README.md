@@ -57,7 +57,7 @@ This is a personal project built to understand **frontend + backend integration*
 
 -Order Confermation page :
 
-![Order page](https://github.com/NikhilPatil5720/Ecommerce-Store/blob/main/OryoOrderpage.png?raw=true)
+![Order page](https://github.com/NikhilPatil5720/Ecommerce-Store/blob/main/Orderpage.png?raw=true)
 
 <hr>
 
